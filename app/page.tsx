@@ -10,7 +10,7 @@ export default function HomePage() {
         {/* Hero Section */}
         <div className="text-center mb-12">
           <h1 className="text-3xl font-bold text-foreground mb-4">
-            Welcome to MavFix
+            Welcome to MavFix By Team 8
           </h1>
           <p className="text-muted-foreground max-w-2xl mx-auto text-balance">
             Your one-stop solution for campus maintenance requests. Submit work
